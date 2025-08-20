@@ -60,8 +60,7 @@
 <body>
     <header>
         <h1>BIENVENIDOS </h1>
-        <h1> calzado narvaez castro </h1>
-    
+        
 
 
 <html>
@@ -81,8 +80,7 @@ background-color:38F527 ;
 <body>
 
   <div class="contenedor-texto">
-    <h1>precio,estilo y comodida </h1>
-    <p>donde la calidad nunca pasa de moda </p>
+   
   </div>
 
 </body>
