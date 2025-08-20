@@ -259,7 +259,7 @@ background-color:38F527 ;
     <h2>Producto 5</h2>
     <p class="precio">$120</p>
     <p class="descripcion">Descripción del Producto 5. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-    <a href="https://wa.me/numerodetelefono?text=¡Hola!%20Me%20interesa%20el%20Producto%205." class="whatsapp-btn" target="_blank">
+    <a href="+50589906649" class="whatsapp-btn" target="_blank">
       Comprar por WhatsApp
     </a>
   </div>
