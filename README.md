@@ -92,7 +92,7 @@ background-color:38F527 ;
 
 
 <a href="https://ice2606.github.io/pagina-002/" class="boton-verde">
-  <button>Ir a catalogo </button>
+  <button>Ir atras</button>
 </a>
 
 <style>
@@ -140,7 +140,7 @@ background-color:38F527 ;
 </head>
 <body>
 
-  <p>Este es un texto que se ve sobre la imagen de fondo.</p>
+
 
 </body>
 </html>
