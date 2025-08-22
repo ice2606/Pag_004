@@ -285,7 +285,7 @@ background-color:38F527 ;
   <tr>
       <td data-label="Foto"><img src="05.jpg" alt="Producto 1" class="producto-img"></td>
       <td data-label="Descripción"><span class="descripcion">zapatos pumas blanco con negro</span></td>
-      <td data-label="Precio"><span class="precio">$150</span></td>
+      <td data-label="Precio"><span class="precio"></span></td>
       <td data-label="Comprar"><a href="https://wa.me/+505 8990 6649?text=Hola,%20me%20interesa%20el%20Producto%201%20de%20tu%20sitio%20web." class="whatsapp-link" target="_blank">WhatsApp</a></td>
     </tr>
     </tbody>
